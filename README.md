@@ -1,5 +1,39 @@
 # SOCKET PROGRAMMING
 
+
+## Usage
+### Clone Repository
+```
+git clone https://github.com/zjqingzun/scypo-Bachelor.SEZSP-CN24CTT3.git
+```
+
+### Navigate to Directory
+```
+cd scypo-Bachelor.SEZSP-CN24CTT3
+```
+
+### Check Environment
+```
+python --version
+pip --version
+pip install -r requirements.txt
+```
+
+### Run Project
+```
+cd src
+```
+### 1. Server
+```
+cd server
+python Server.py 554
+```
+### 2. Client
+_(update)_
+
+
+
+
 ## References
 See additional details in the [CONTRIBUTING](./CONTRIBUTING.md) file for external contribution acknowledgments.
 
