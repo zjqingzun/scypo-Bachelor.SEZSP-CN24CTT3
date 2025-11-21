@@ -31,10 +31,13 @@ cd src
 ### 1. Server
 ```
 cd server
-python Server.py 554
+python Server.py 1234
 ```
 ### 2. Client
-_(update)_
+```
+cd client
+python ClientLauncher.py 127.0.0.1 1234 444 movie.Mjpeg
+```
 
 
 
