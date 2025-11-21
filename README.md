@@ -1,6 +1,11 @@
 # SOCKET PROGRAMMING
 
 
+## Introduction
+__Architecture:__ Client - Server <br>
+__Protocol:__ RSTP (TCP) - RTP (UDP)
+
+
 ## Usage
 ### Clone Repository
 ```
